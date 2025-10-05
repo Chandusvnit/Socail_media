@@ -1,0 +1,24 @@
+{
+  "name": "socail_media",
+  "version": "1.0.0",
+  "description": "full stack ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chandusvnit/Socail_media.git"
+  },
+  "author": "chandan kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chandusvnit/Socail_media/issues"
+  },
+  "homepage": "https://github.com/Chandusvnit/Socail_media#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "prettier": "3.6.2"
+  }
+}
